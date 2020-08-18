@@ -1,0 +1,15 @@
+.container-item {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+    
+}
+.container{
+    display: flex;
+    margin-left: 0;
+    width: 50%;
+    background-color: #293D55;
+}
+.grafico{
+    background-color: #3B4B5B;
+}
